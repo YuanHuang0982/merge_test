@@ -1,0 +1,7 @@
+# ninja log v6
+0	7045	1751615285002171371	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	e902252504ea4706
+0	9984	1751615285002171371	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	aac9896675594c75
+0	19285	1751615285002171371	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	4548c379b721d2eb
+13	7179	1751617142020618394	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	63d2ca95f4804b16
+13	10062	1751617144907602801	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	60d5397c4f33dc8f
+13	19285	1751617154120552882	/home/user/Project/Test/VMamba_Person/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	d52eaa552c04277e
